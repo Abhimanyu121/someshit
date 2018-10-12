@@ -8,11 +8,11 @@
 	display: flex;
 }
 #logo{
-	width:  50%;
+	width:  60%;
 
 }
 #form_in{
-	width: 50%;
+	width: 60%;
 }
 #flogo{
 	margin-left: 50px;
@@ -34,7 +34,7 @@
 	color: white;
 	margin-top: 30px;
 
-}
+}// main //
 #main{
    background-color: #e9ebee;
    width: 100%;
